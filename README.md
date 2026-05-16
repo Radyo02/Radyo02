@@ -6,7 +6,7 @@ Hi, I'm **Mehrad Yousefi**! 🚀
 - 📫 How to reach me: **[mehradyousefi81@gmail.com]**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrad-yousefi-3a037813a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrad-yousefi-rad0/)
 
 ## 💻 Tech Stack:
 
